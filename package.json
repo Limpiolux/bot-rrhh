@@ -15,8 +15,11 @@
     "@builderbot/database-json": "1.2.1",
     "@builderbot/provider-baileys": "1.2.1",
     "axios": "^1.7.4",
+    "cors": "^2.8.5",
+    "express": "^4.21.0",
+    "mysql2": "^3.11.3",
     "nodemailer": "^6.9.14",
-    "sharp": "^0.33.4"
+    "sharp": "^0.33.5"
   },
   "devDependencies": {
     "eslint": "^8.57.0",

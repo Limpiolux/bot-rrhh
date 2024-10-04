@@ -1,16 +1,16 @@
 [
   {
-    "ref": "60dab93c-88f3-422f-850d-f6d85f7dcf59",
-    "keyword": "dcfdebdd3a6bafd6b8619adc60cdd401",
+    "ref": "8b87ed18-0c54-4161-bdd9-ecbe3059c9ac",
+    "keyword": "d26e4507ea05ad93aa7b645653596bc5",
     "answer": "hola",
     "options": {},
     "from": "5491166393255",
     "refSerialize": "79e7fc16f7fb85373fd25a99390f44c0"
   },
   {
-    "ref": "ans_d34e6926-319e-4d34-9274-49ab9fd83fee",
-    "keyword": "key_e0da98c6-ec26-4238-b03a-01864aa5fddb",
-    "answer": "¡Hola, bienvenido/a! Mi nombre es LimpioBot y estoy aquí para ayudarte. Por favor, escribe \"Continuar\" para comenzar.",
+    "ref": "ans_bd06a406-dd00-40d4-bfc0-3820d8c22696",
+    "keyword": "key_b6706fd0-319f-4613-b065-d75c4f1918fc",
+    "answer": "¡Holaaa, bienvenido/a! Mi nombre es LimpioBot y estoy aquí para ayudarte. Escribe \"Continuar\" para empezar.",
     "options": {
       "buttons": [],
       "capture": true,
@@ -19,109 +19,19 @@
       "keyword": {},
       "callback": true
     },
-    "refSerialize": "cdd4927fee02f4951019497e5b141055",
+    "refSerialize": "408fe609c3ecfd2af333e8b2a59b5e70",
     "from": "5491166393255"
   },
   {
-    "ref": "ed0bdc20-41da-4627-b121-ce1d6e8cd4c8",
-    "keyword": "cdd4927fee02f4951019497e5b141055",
+    "ref": "c0262bc3-0089-44bf-be15-4d5a680e2979",
+    "keyword": "408fe609c3ecfd2af333e8b2a59b5e70",
     "answer": "continuar",
     "options": {},
     "from": "5491166393255",
     "refSerialize": "17138ca286e04f8331fba292fef712d7"
   },
   {
-    "ref": "ans_38890ab5-1d57-402b-9ae6-5da5f6479890",
-    "keyword": "key_c2491c7d-23cf-4714-b4f5-35a0179b7f7d",
-    "answer": "¡Hola, mi nombre es LimpioBot y estoy para ayudarte! ¿Sos empleado/a de Grupo Limpiolux?\n1. Si\n2. No, nunca fui empleado de Grupo Limpiolux.\n3. Estoy en proceso de ingreso\n4. Ya no",
-    "options": {
-      "buttons": [],
-      "capture": true,
-      "delay": 0,
-      "nested": [],
-      "keyword": {},
-      "callback": true
-    },
-    "refSerialize": "dbf585193e51392957913d01320e34a7",
-    "from": "5491166393255"
-  },
-  {
-    "ref": "5cdaeaa1-f078-4a6f-92ed-dfd79bc6b48d",
-    "keyword": "dbf585193e51392957913d01320e34a7",
-    "answer": "3",
-    "options": {},
-    "from": "5491166393255",
-    "refSerialize": "7af65864494b12f0f7ef00589f4d3979"
-  },
-  {
-    "ref": "ans_ce93a76f-ffe6-45bb-9f22-0fdc7d2494a6",
-    "keyword": "key_3fbfa3c9-d4b7-4316-a7e8-6d446bb2cab0",
-    "answer": "Si ya te realizaste los estudios preocupacionales, te pedimos que aguardes ya que te citaremos por este medio.",
-    "options": {
-      "buttons": [],
-      "capture": true,
-      "delay": 0,
-      "nested": [],
-      "keyword": {},
-      "callback": true
-    },
-    "refSerialize": "ff697fe4f80778d6b4e63bf8608c8d70",
-    "from": "5491166393255"
-  },
-  {
-    "ref": "d7acf1c3-7a2e-4c9a-9f20-e8a256fac894",
-    "keyword": "ff697fe4f80778d6b4e63bf8608c8d70",
-    "answer": "salir",
-    "options": {},
-    "from": "5491166393255",
-    "refSerialize": "eed18d7db53c6fa95f811ba639340af6"
-  },
-  {
-    "ref": "ans_10716a20-2b53-40a1-8447-bc3d7904c53e",
-    "keyword": "key_6f0adb9c-4548-4833-ad3d-971ff99b329f",
-    "answer": "Escribe de vuelta un saludo para volver al principio 😁",
-    "options": {
-      "buttons": [],
-      "capture": false,
-      "delay": 0,
-      "nested": [],
-      "keyword": {},
-      "callback": false
-    },
-    "from": "5491166393255"
-  },
-  {
-    "ref": "6b07c716-66f4-42b0-8485-2c30590668a8",
-    "answer": "hola",
-    "options": {},
-    "from": "5491166393255",
-    "refSerialize": "79e7fc16f7fb85373fd25a99390f44c0"
-  },
-  {
-    "ref": "ans_d34e6926-319e-4d34-9274-49ab9fd83fee",
-    "keyword": "key_e0da98c6-ec26-4238-b03a-01864aa5fddb",
-    "answer": "¡Hola, bienvenido/a! Mi nombre es LimpioBot y estoy aquí para ayudarte. Por favor, escribe \"Continuar\" para comenzar.",
-    "options": {
-      "buttons": [],
-      "capture": true,
-      "delay": 0,
-      "nested": [],
-      "keyword": {},
-      "callback": true
-    },
-    "refSerialize": "cdd4927fee02f4951019497e5b141055",
-    "from": "5491166393255"
-  },
-  {
-    "ref": "4ac9969c-366a-4e6f-8253-651a56ff571e",
-    "keyword": "cdd4927fee02f4951019497e5b141055",
-    "answer": "salir",
-    "options": {},
-    "from": "5491166393255",
-    "refSerialize": "eed18d7db53c6fa95f811ba639340af6"
-  },
-  {
-    "ref": "b5cbf4b9-a835-4418-9746-ced8fc86b739",
+    "ref": "662bdf0c-fdfc-4b4f-be27-2c7bafa58c3e",
     "keyword": null,
     "answer": "No entendí tu respuesta. Por favor, escribe Continuar para comenzar.",
     "options": {
@@ -134,55 +44,8 @@
     "refSerialize": "9b8fe24c799e20b2379f95dbb7f1b699"
   },
   {
-    "ref": "5f498064-0951-4693-a923-1cb6b9d271c1",
-    "keyword": "eed18d7db53c6fa95f811ba639340af6",
-    "answer": "salir",
-    "options": {},
-    "from": "5491166393255",
-    "refSerialize": "eed18d7db53c6fa95f811ba639340af6"
-  },
-  {
-    "ref": "f3904b8c-ec40-46bd-a0af-9aaaf2d671bc",
-    "keyword": "eed18d7db53c6fa95f811ba639340af6",
-    "answer": "salir",
-    "options": {},
-    "from": "5491166393255",
-    "refSerialize": "eed18d7db53c6fa95f811ba639340af6"
-  },
-  {
-    "ref": "a5548fa1-af25-466f-a99c-367f287ad7e6",
-    "keyword": "eed18d7db53c6fa95f811ba639340af6",
-    "answer": "hola",
-    "options": {},
-    "from": "5491166393255",
-    "refSerialize": "79e7fc16f7fb85373fd25a99390f44c0"
-  },
-  {
-    "ref": "ans_d34e6926-319e-4d34-9274-49ab9fd83fee",
-    "keyword": "key_e0da98c6-ec26-4238-b03a-01864aa5fddb",
-    "answer": "¡Hola, bienvenido/a! Mi nombre es LimpioBot y estoy aquí para ayudarte. Por favor, escribe \"Continuar\" para comenzar.",
-    "options": {
-      "buttons": [],
-      "capture": true,
-      "delay": 0,
-      "nested": [],
-      "keyword": {},
-      "callback": true
-    },
-    "refSerialize": "cdd4927fee02f4951019497e5b141055",
-    "from": "5491166393255"
-  },
-  {
-    "ref": "c197238d-a495-4eb2-9378-3b2035894538",
-    "keyword": "cdd4927fee02f4951019497e5b141055",
-    "answer": "continuar",
-    "options": {},
-    "from": "5491166393255",
-    "refSerialize": "17138ca286e04f8331fba292fef712d7"
-  },
-  {
-    "ref": "ans_38890ab5-1d57-402b-9ae6-5da5f6479890",
-    "keyword": "key_c2491c7d-23cf-4714-b4f5-35a0179b7f7d",
+    "ref": "ans_9afc3dce-d0fb-4118-9370-48d055e6554c",
+    "keyword": "key_765cb60b-0efd-4233-8e89-b9dc33ab19d7",
     "answer": "¡Hola, mi nombre es LimpioBot y estoy para ayudarte! ¿Sos empleado/a de Grupo Limpiolux?\n1. Si\n2. No, nunca fui empleado de Grupo Limpiolux.\n3. Estoy en proceso de ingreso\n4. Ya no",
     "options": {
       "buttons": [],
@@ -192,21 +55,34 @@
       "keyword": {},
       "callback": true
     },
-    "refSerialize": "dbf585193e51392957913d01320e34a7",
+    "refSerialize": "44cec69cdcb69403682edbee90863ec2",
     "from": "5491166393255"
   },
   {
-    "ref": "a73a4c29-dc69-4c8b-93ac-5782b8a8b5ed",
-    "keyword": "dbf585193e51392957913d01320e34a7",
-    "answer": "3",
+    "ref": "8881d5a3-d77a-4581-80f7-607b55dc1fa0",
+    "keyword": "44cec69cdcb69403682edbee90863ec2",
+    "answer": "hola",
     "options": {},
     "from": "5491166393255",
-    "refSerialize": "7af65864494b12f0f7ef00589f4d3979"
+    "refSerialize": "79e7fc16f7fb85373fd25a99390f44c0"
   },
   {
-    "ref": "ans_ce93a76f-ffe6-45bb-9f22-0fdc7d2494a6",
-    "keyword": "key_3fbfa3c9-d4b7-4316-a7e8-6d446bb2cab0",
-    "answer": "Si ya te realizaste los estudios preocupacionales, te pedimos que aguardes ya que te citaremos por este medio.",
+    "ref": "48667633-8c5e-4379-a6d4-bcd0e957e63e",
+    "keyword": null,
+    "answer": "Por favor selecciona una opción válida.",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5491166393255",
+    "refSerialize": "54159554863583180bd23284d6657315"
+  },
+  {
+    "ref": "ans_bd06a406-dd00-40d4-bfc0-3820d8c22696",
+    "keyword": "key_b6706fd0-319f-4613-b065-d75c4f1918fc",
+    "answer": "¡Holaaa, bienvenido/a! Mi nombre es LimpioBot y estoy aquí para ayudarte. Escribe \"Continuar\" para empezar.",
     "options": {
       "buttons": [],
       "capture": true,
@@ -215,7 +91,7 @@
       "keyword": {},
       "callback": true
     },
-    "refSerialize": "ff697fe4f80778d6b4e63bf8608c8d70",
+    "refSerialize": "408fe609c3ecfd2af333e8b2a59b5e70",
     "from": "5491166393255"
   }
 ]
